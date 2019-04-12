@@ -3,6 +3,18 @@
 This is my thesis project at University. Using OpenFace to detect face then training a Deep Learning model CNNs to recognize emotion on the faces.
 Best compatible with Python 2.7 on Ubuntu 16.04.
 
+# Result
+The CNN model can recognize 5 kinds of emotion: happy, sad, neutral, surprise, angry. 
+
+![Emotion surprise](https://github.com/bioIntelligence/Emotion-recognize/blob/master/Screenshoots/supprise.png)
+
+![Emotion angry](https://github.com/bioIntelligence/Emotion-recognize/blob/master/Screenshoots/angry.png)
+
+![Emotion mix 1](https://github.com/bioIntelligence/Emotion-recognize/blob/master/Screenshoots/EmotionTest1.png)
+
+![Emotion mix 2](https://github.com/bioIntelligence/Emotion-recognize/blob/master/Screenshoots/EmotionTest2.png)
+
+
 ## Installation
 
 - [OpenFace](https://cmusatyalab.github.io/openface/)
